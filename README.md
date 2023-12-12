@@ -27,7 +27,7 @@ This configuration comes with:
 
 > **Note:** Consider appending an alias in your `~/.bashrc` configuration(or for your prefered shell).
 > ```
-> alias emacs = -nw
+> alias emacs = "emacs -nw"
 > ```
  
 
